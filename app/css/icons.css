@@ -4,12 +4,45 @@
 }
 
 .icon-mail {
-  background-image: url('../images/icons-sda41bc8476.png');
-  background-position: 0 0;
+  background-image: url('../images/icons-s1c114e0f30.png');
+  background-position: 0 -22px;
   background-repeat: no-repeat;
   overflow: hidden;
   display: inline-block;
   vertical-align: middle;
   height: 25px;
   width: 34px;
+}
+
+.icon-tw {
+  background-image: url('../images/icons-s1c114e0f30.png');
+  background-position: 0 -72px;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: middle;
+  height: 13px;
+  width: 17px;
+}
+
+.icon-rss {
+  background-image: url('../images/icons-s1c114e0f30.png');
+  background-position: 0 -52px;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: middle;
+  height: 15px;
+  width: 15px;
+}
+
+.icon-fc {
+  background-image: url('../images/icons-s1c114e0f30.png');
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: middle;
+  height: 17px;
+  width: 9px;
 }
